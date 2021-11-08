@@ -1,0 +1,97 @@
+.achtergrond {
+text-align:rigth-side-side;
+	width: 500px;
+	font-family:tahoma;
+	font-size:20px;
+
+}
+
+.info {
+	text-align:center;
+	width: px;
+	font-family: tahoma;
+	font-size: 25px;
+}
+
+.muziek {
+	text-align:center;
+	width:600px;
+	font-family: tahoma;
+	font-size:25px;
+}
+
+
+
+.portfoliovaninformatica {
+	text-align: center;
+	border:;
+}
+
+#begin {
+	text-align: center;
+	padding: 30px;
+	background-color:LightSeaGreen;
+	font-family:tahoma;
+}
+
+.foto{
+	position:center;
+	right:10px;
+}
+* {
+	background-color:RosyBrown;
+}
+
+table, td, th {
+	border: solid black 1px
+}
+
+.tabel {
+	text-align:center;
+	font-size:25px;
+}
+
+ul {
+	list-style-type:none;
+	margin: 0;
+	padding:0;
+	overflow:hidden;
+	background-color:LightSteelBlue;
+}
+
+li {
+	float:left;
+}
+
+li a {
+	display:block;
+	padding:15px;
+	background-color:LightSteelBlue;
+}
+
+li a:hover {
+	background-color:SteelBlue;
+}
+
+ul.fun {
+	font-family:tahoma;
+}
+
+.text {
+	text-align:center;
+	
+}
+
+.text > div {
+	vertical-align:top;
+	display:inline-block;
+}
+
+.tab {
+	text-align:center;
+}
+
+.tab > div {
+	vertical-align:top;
+	display:inline-block;
+}
